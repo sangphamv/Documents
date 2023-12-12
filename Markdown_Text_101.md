@@ -22,10 +22,13 @@
 
 ![image](https://github.com/sangphamv/Documents/assets/88132750/c8307281-7580-4ac5-9668-03fc75f00ab3)
 
-3. Quoting text (Trích dẫn văn bản) " > "
+3. Quoting text (Trích dẫn văn bản) `>`
 
     Text that is not a quote
     > Text that is not a quote
+
+4. Quoting code (Trích dẫn Code) ``git status``
+`Use `git status` to list all new or modified files that haven't yet been committed.
 
 
 
