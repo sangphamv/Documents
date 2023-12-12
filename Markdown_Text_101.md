@@ -28,8 +28,48 @@
     > Text that is not a quote
 
 4. Quoting code (Trích dẫn Code)
-   
-Use `git status` to list all new or modified files that haven't yet been committed.
+
+5. Supported color models
+
+6. Links
+
+7. Section links
+
+8. Relative links
+
+9. Images
+
+10. Specifying the theme an image is shown to
+
+11. Lists
+
+12. Nested Lists
+
+13. Task lists
+
+14. Mentioning people and teams
+
+15. Referencing issues and pull requests
+
+16. Referencing external resources
+
+17. Uploading assets
+
+18. Using emoji
+
+19. Paragraphs
+
+20. Footnotes
+
+21. Alerts
+
+22. Hiding content with comments
+
+23. Ignoring Markdown formatting
+
+24. Disabling Markdown rendering
+
+
 
 
 
