@@ -8,6 +8,7 @@
     6. Stack Overflow
     7. Git
     8. GitHub
+# Extension For Visual Studio Code
 # Markdown Text 101 (Cú pháp viết và định dạng ReadMe.md)
 1. Headings (1 đến 6)
    
