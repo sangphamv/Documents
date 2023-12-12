@@ -8,7 +8,7 @@
     6. Stack Overflow
     7. Git
     8. GitHub
-# Markdown Text 101
+# Markdown Text 101 (Cú pháp viết và định dạng ReadMe.md)
 1. Headings (1 đến 6)
    
     `# A first-level heading`
@@ -16,5 +16,17 @@
     `## A second-level heading`
    
     `### A third-level heading`
+
+2. Styling text
+   
+
+![image](https://github.com/sangphamv/Documents/assets/88132750/c8307281-7580-4ac5-9668-03fc75f00ab3)
+
+3. Quoting text (Trích dẫn văn bản) " > "
+
+    Text that is not a quote
+    > Text that is not a quote
+
+
 
 
