@@ -27,8 +27,9 @@
     Text that is not a quote
     > Text that is not a quote
 
-4. Quoting code (Trích dẫn Code) ``git status``
-`Use `git status` to list all new or modified files that haven't yet been committed.
+4. Quoting code (Trích dẫn Code)
+   
+`Use `git status` to list all new or modified files that haven't yet been committed.`
 
 
 
