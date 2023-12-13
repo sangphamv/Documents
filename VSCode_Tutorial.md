@@ -1,8 +1,8 @@
 # Các Extension 
 
-    * Material Icon Theme (Đổi màu cho Icon)
+    * Material Icon Theme
 
-    * Live Server (Host a Local Sever)
+    * Live Server 
 
     * Code Spell Checker
 
@@ -12,11 +12,11 @@
 
     * Better Comments
 
-    * Auto Rename Tag - Tự động 
+    * Auto Rename Tag 
 
     * Auto Close Tag
 
-    * One Dark Pro - Đổi màu giao diện 
+    * One Dark Pro 
 
 # Phím tắt trong VSCode
 
