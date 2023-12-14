@@ -1,5 +1,8 @@
 # CONTENT
-[Các Extension](#Các Extension )
+* Các Extension
+* Phím tắt trong VSCode
+* Lệnh trong Terminal
+* Sử dụng Emmet cho HTML & CSS
 ## Các Extension 
 
     * Material Icon Theme
