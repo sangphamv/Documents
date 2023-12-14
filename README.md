@@ -2,7 +2,7 @@
 - [Các Extension](#Các-Extension)
 - [Phím tắt trong VSCode](#Phím-tắt-trong-VSCode)
 - [Lệnh trong Terminal](#Lệnh-trong-Terminal)
-- [Sử dụng Emmet cho HTML & CSS](#Sử-dụng-Emmet-cho-HTML-&-CSS)
+- [Sử dụng Emmet cho HTML & CSS](#Sử-dụng-Emmet-cho-HTML--CSS)
 ## Các Extension 
 
     * Material Icon Theme
