@@ -1,4 +1,6 @@
-# Các Extension 
+# CONTENT
+      [Các Extension](## Các Extension )
+## Các Extension 
 
     * Material Icon Theme
 
@@ -18,7 +20,7 @@
 
     * One Dark Pro 
 
-# Phím tắt trong VSCode
+## Phím tắt trong VSCode
 
 1. Phím tắt cơ bản 
 
@@ -135,11 +137,11 @@
 |Ctrl + Mũi tên lên/xuống	|Cuộn lên/xuống
 |Ctrl + Home/End	|Cuộn lên trên cùng/xuống dưới cùng
 
-# Lệnh trong Terminal
+## Lệnh trong Terminal
 
-# Sử dụng Emmet cho HTML & CSS
+## Sử dụng Emmet cho HTML & CSS
 
-## Phím tắt Emmet cho HTML
+### Phím tắt Emmet cho HTML
 
 * Tạo Comment (Chú thích) nhấn `Ctrl + /`
 
@@ -246,7 +248,7 @@
 
             <script src=""></script>
 
-## Phím tắt Emmet cho CSS
+### Phím tắt Emmet cho CSS
 
 * `m10`
 
