@@ -1,8 +1,8 @@
-# CONTENT
-* Các Extension
-* Phím tắt trong VSCode
-* Lệnh trong Terminal
-* Sử dụng Emmet cho HTML & CSS
+# CONTENT - Nội dung
+1 Các Extension
+2 Phím tắt trong VSCode
+3 Lệnh trong Terminal
+4 Sử dụng Emmet cho HTML & CSS
 ## Các Extension 
 
     * Material Icon Theme
